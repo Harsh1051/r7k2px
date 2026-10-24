@@ -250,7 +250,7 @@ The frontend was verified through Docker with the local development servers stop
 
 In compliance with academic and professional honesty standards:
 
-- **AI Coding Assistant**: Google DeepMind Antigravity (powered by Gemini).
+- **AI Coding Assistant**: Google Antigravity & Chat GPT.
 - **Assisted Tasks**:
   - Diagnosed Elexon BMRS parameter differences (`settlementDateFrom`/`settlementDateTo` vs generic `from`/`to`).
   - Drafted day-ahead forecast cutoff logic and market gate closure formulas.
